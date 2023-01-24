@@ -12,7 +12,7 @@ download of the Software by the Licensee. No signature is required for this Agre
 
 ● "Dependencies" means third party software, libraries, audio, visuals, art, and other
 content utilized by the Software.
-● "Use" means to access, install, download, copy, or otherwise benefit from using
+<br>● "Use" means to access, install, download, copy, or otherwise benefit from using
 the functionality of the Software.
 
 **2. LICENSEE ACKNOWLEDGEMENTS**
@@ -32,11 +32,11 @@ Software for the purpose of creating VRChat worlds, and for no other purpose.
 **4. RESTRICTIONS ON USE**
 
 The Licensee shall not, and shall not permit any third party to:
-● Sell, rent, lease, sublicense, distribute, or otherwise transfer the Software or any
+<br>● Sell, rent, lease, sublicense, distribute, or otherwise transfer the Software or any
 copy thereof to any third party;
-● Modify, adapt, or create derivative works of the Software;
-● Reverse engineer, decompile, or disassemble the Software; or
-● Use the Software for any purpose other than the creation of VRChat worlds.
+<br>● Modify, adapt, or create derivative works of the Software;
+<br>● Reverse engineer, decompile, or disassemble the Software; or
+<br>● Use the Software for any purpose other than the creation of VRChat worlds.
 
 **5. OWNERSHIP**
 
