@@ -1,4 +1,9 @@
-# HashStudiosWater
+
+------------------------
+
+# <p align="center"> HashStudiosWater </p>
+
+------------------------
 
 ## Description
 
