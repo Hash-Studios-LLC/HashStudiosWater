@@ -7,7 +7,15 @@
 
 ## Description
 
-Are you looking to add an immersive underwater experience to your virtual world? Look no further! Our company, Hash Studios LLC, offers a developer tool that makes it easy for world creators to mimic the vision of being underwater. Our tool, called "Hash Studios Water", is a package that can be easily downloaded and integrated into your game or virtual world. With just a few simple steps, you can set a prefab and specify the colliders of objects that should mimic water, and our tool will automatically apply realistic underwater visual effects such as refraction, distortion, and color correction.
+Are you looking to add an immersive underwater experience to your virtual world? 
+<br>Look no further! Our company, Hash Studios LLC, offers a developer tool that 
+<br>makes it easy for world creators to mimic the vision of being underwater. 
+<br>Our tool, called "Hash Studios Water", is a package that can be easily 
+<br>downloaded and integrated into your game or virtual world. 
+
+With just a few simple steps, you can set a prefab and specify the colliders of 
+objects that should mimic water, and our tool will automatically apply realistic 
+underwater visual effects such as refraction, distortion, and color correction.
 
 ------------------------
 
