@@ -28,17 +28,17 @@ With just a few simple steps, you can set a prefab and specify the colliders of
 * Unity 2019.4.31f1 
 
 Please visit the requirements for UdonSharp here. 
-https://github.com/vrchat-community/UdonSharp
+<br>https://github.com/vrchat-community/UdonSharp
 
 ------------------------
 
 ## Instructions
 
 Please view the instructions for this product on our website, 
-https://hashstudiosllc.com. 
+<br>https://hashstudiosllc.com. 
 
 You may also view a YouTube video on how to use this product here. 
-https://www.youtube.com/watch?v=87vhzI15c48
+<br>https://www.youtube.com/watch?v=87vhzI15c48
 
 ------------------------
 
