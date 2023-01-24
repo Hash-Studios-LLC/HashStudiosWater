@@ -1,6 +1,6 @@
 ----------------------------------
 
-PROPRIETARY SOFTWARE LICENSE AGREEMENT
+**PROPRIETARY SOFTWARE LICENSE AGREEMENT**
 
 This Proprietary Software License Agreement ("Agreement") is made and entered into by and
 between Hash Studios LLC ("Licensor"), the creator and owner of the software
@@ -96,7 +96,8 @@ or download of the Software.
 
 ----------------------------------
 
-CONTACT
+**CONTACT**
+
 If you have an questions or concerns regarding this Proprietary Software License Agreement,
 please contact Hash Studios LLC at:
 hashstudiosllc@gmail.com
