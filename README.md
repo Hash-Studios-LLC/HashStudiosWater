@@ -24,7 +24,11 @@ With just a few simple steps, you can set a prefab and specify the colliders of
 <br>objects that should mimic water, and our tool will automatically apply realistic 
 <br>underwater visual effects such as refraction, distortion, and color correction.
 
+<br>
+
 ------------------------
+
+<br>
 
 ## Requirements
 
@@ -34,7 +38,11 @@ With just a few simple steps, you can set a prefab and specify the colliders of
 Please visit the requirements for UdonSharp here. 
 <br>https://github.com/vrchat-community/UdonSharp
 
+<br>
+
 ------------------------
+
+<br>
 
 ## Instructions
 
@@ -44,13 +52,21 @@ Please view the instructions for this product on our website,
 You may also view a YouTube video on how to use this product here. 
 <br>https://www.youtube.com/watch?v=87vhzI15c48
 
+<br>
+
 ------------------------
+
+<br>
 
 ## Official Website
 
 https://hashstudiosllc.com
 
+<br>
+
 ------------------------
+
+<br>
 
 ## Details
 
@@ -62,7 +78,11 @@ Visual effects such as refraction, distortion, and color correction.
 
 User-friendly and requires no special effects knowledge or extensive coding.
 
+<br>
+
 ------------------------
+
+<br>
 
 ## License Agreement
 
@@ -83,7 +103,11 @@ We understand that license agreements can be a bit confusing, so we encourage yo
 
 Thank you for choosing Hash Studios Water, we truly appreciate your support.
 
+<br>
+
 ------------------------
+
+<br>
 
 ## Version Log
 
