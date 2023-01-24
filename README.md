@@ -9,6 +9,7 @@
 
 Are you looking to add an immersive underwater experience to your virtual world? Look no further! Our company, Hash Studios LLC, offers a developer tool that makes it easy for world creators to mimic the vision of being underwater. Our tool, called "Hash Studios Water", is a package that can be easily downloaded and integrated into your game or virtual world. With just a few simple steps, you can set a prefab and specify the colliders of objects that should mimic water, and our tool will automatically apply realistic underwater visual effects such as refraction, distortion, and color correction.
 
+------------------------
 
 ## Requirements
 
@@ -18,6 +19,7 @@ Are you looking to add an immersive underwater experience to your virtual world?
 Please visit the requirements for UdonSharp here. 
 https://github.com/vrchat-community/UdonSharp
 
+------------------------
 
 ## Instructions
 
@@ -27,11 +29,13 @@ https://hashstudiosllc.com.
 You may also view a YouTube video on how to use this product here. 
 https://www.youtube.com/watch?v=87vhzI15c48
 
+------------------------
 
 ## Official Website
 
 https://hashstudiosllc.com
 
+------------------------
 
 ## Details
 
@@ -42,6 +46,8 @@ Set a prefab and specify the colliders of objects that should mimic water.
 Visual effects such as refraction, distortion, and color correction. 
 
 User-friendly and requires no special effects knowledge or extensive coding.
+
+------------------------
 
 ## License Agreement
 
@@ -54,6 +60,8 @@ This agreement is in place to protect both you and our company. It ensures that 
 We understand that license agreements can be a bit confusing, so we encourage you to take a moment to read through the agreement and reach out to us if you have any questions. Our goal is to make your experience with Hash Studios Water as positive as possible and we want to make sure you have all the information you need to make an informed decision. 
 
 Thank you for choosing Hash Studios Water, we truly appreciate your support.
+
+------------------------
 
 ## Version Log
 
