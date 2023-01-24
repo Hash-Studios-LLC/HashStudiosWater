@@ -3,7 +3,7 @@
 
 # <p align="center"> Hash Studios Water </p>
 
-<img src="https://github.com/Hash-Studios-LLC/HashStudiosWater/blob/main/images/HashStudiosWaterShowcase-NOBACKGROUND.png?raw=trueshot2.png?raw=true" alt="youtubechannel" width="64%" height="36%"> 
+<p align="center"> <img src="https://github.com/Hash-Studios-LLC/HashStudiosWater/blob/main/images/HashStudiosWaterShowcase-NOBACKGROUND.png?raw=trueshot2.png?raw=true" alt="youtubechannel" width="64%" height="36%"> </p>
 
 ------------------------
 
