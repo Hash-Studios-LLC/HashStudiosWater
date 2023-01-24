@@ -11,7 +11,7 @@
 
 <br>
 
-## <p align="center"> Description </p>
+## Description
 
 Are you looking to add an immersive underwater experience to your virtual world? 
 <br>Look no further! Our company, Hash Studios LLC, offers a developer tool that 
@@ -30,7 +30,7 @@ With just a few simple steps, you can set a prefab and specify the colliders of
 
 <br>
 
-## <p align="center"> Requirements </p>
+## Requirements
 
 * UdonSharp 
 * Unity 2019.4.31f1 
@@ -44,7 +44,7 @@ Please visit the requirements for UdonSharp here.
 
 <br>
 
-## <p align="center"> Instructions </p>
+## Instructions
 
 Please view the instructions for this product on our website, 
 <br>https://hashstudiosllc.com. 
@@ -58,7 +58,7 @@ You may also view a YouTube video on how to use this product here.
 
 <br>
 
-## <p align="center"> Official Website </p>
+## Official Website
 
 https://hashstudiosllc.com
 
@@ -84,7 +84,7 @@ User-friendly and requires no special effects knowledge or extensive coding.
 
 <br>
 
-## <p align="center"> License Agreement </p>
+## License Agreement
 
 View our license agreement [here](https://drive.google.com/file/d/1-zxVmuv-lEcXTcOc9DyYn2paBkshKIZI/view?usp=sharing).
 
@@ -109,7 +109,7 @@ Thank you for choosing Hash Studios Water, we truly appreciate your support.
 
 <br>
 
-## <p align="center"> Version Log </p>
+## Version Log
 
 #### Version 1.1 
 
