@@ -98,7 +98,7 @@ User-friendly and requires no special effects knowledge or extensive coding.
 
 <br>
 
-View our license agreement [here](https://drive.google.com/file/d/1-zxVmuv-lEcXTcOc9DyYn2paBkshKIZI/view?usp=sharing).
+View our license agreement [here](https://www.hashstudiosllc.com/hashstudioswater/license).
 
 We want to make sure that you're fully informed about your purchase of Hash Studios Water. 
 <br>As part of your purchase, you should know that by downloading or purchasing the software, 
